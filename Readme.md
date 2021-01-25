@@ -1,16 +1,25 @@
-# **Assignment Title**  
+# **How Long?**  
 
 ## **Assignment Description**  
-
+Create a function called howLong() that returns the number of characters of a given word w.
 
 ## **Examples**  
->
+>howLong("peanut butter")  
+13  
+
+>howLong("jelly")  
+5  
 
 ## **Limitations**  
+1 function  
+0 for loops  
+0 if statements  
 
 ## **Hints**  
+Use len() to get the length of a list  
 
 ## **Concepts**  
+Unit 1, Unit 2, lists  
 
 ---
 
